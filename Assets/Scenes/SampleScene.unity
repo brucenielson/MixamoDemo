@@ -664,6 +664,7 @@ MonoBehaviour:
   m_MoveSpeedMultiplier: 1
   m_AnimSpeedMultiplier: 1
   m_GroundCheckDistance: 0.2
+  m_JumpBoost: 1.1
 --- !u!95 &1064031687
 Animator:
   serializedVersion: 3
